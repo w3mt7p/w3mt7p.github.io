@@ -13,10 +13,16 @@
       
       <categories>
           
-          <category> uncategorized </category>
+          <category> 随便写写 </category>
           
       </categories>
       
+      
+        <tags>
+            
+            <tag> hexo </tag>
+            
+        </tags>
       
     </entry>
     
